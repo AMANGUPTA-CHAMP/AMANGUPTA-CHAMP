@@ -1,4 +1,4 @@
-## Hi there 👋
+![logo](https://github.com/AMANGUPTA-CHAMP/AMANGUPTA-CHAMP/blob/main/r.png)
 <h1 align="center">Hi 👋, I'm AMAN GUPTA</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-photo/video-editing-man-illustration_847512-4531.jpg">
